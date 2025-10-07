@@ -1,0 +1,12 @@
+{
+  "automerge": true,
+  "packageRules": [{
+    "matchPackageNames": ["*"],
+    "enabled": false
+  },
+  {
+    "matchPackageNames": ["pytorch"],
+    "enabled": true
+  }
+  ]
+}
